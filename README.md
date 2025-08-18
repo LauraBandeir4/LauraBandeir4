@@ -1,7 +1,12 @@
-## Hi there 👋
+## Sobre mim 😄
 
+Sou estudante do SENAI no curso de Desenvolvimento de Sistemas, com o primeiro semestre concluído.
+
+
+📫 Caso queira me contatar:
+✉️laurasantosbandeira07@gmail.com.br
+⚡https://www.linkedin.com/in/laura-bandeira-806981353/
 <!--
-**LauraBandeir4/LauraBandeir4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
