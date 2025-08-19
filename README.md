@@ -1,6 +1,9 @@
 ## 😄Sobre mim
 
-Olá, a Laura Bandeira, aluna do SENAI Jandira no curso de Desenvolvimento de sistemas.
+Olá, a Laura Bandeira: 
+- Estou no último semestre do Ensino Médio
+- Estou no segundo semestre no curso de Desenvolvimento de Sistemas no SENAI Jandira.
+- Gosto muito de aprender e ajudar meus colegas.
 
 ## 🚀
 Aqui você poderá encontrar meus projetos e atividades que estão em produção ou já terminados.
