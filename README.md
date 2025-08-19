@@ -12,7 +12,7 @@ Aqui você poderá encontrar meus projetos e atividades que estão em produção
 
 ## 📫Caso queira me contatar:
 - ✉️laurasantosbandeira07@gmail.com.br
--⚡https://www.linkedin.com/in/laura-bandeira-806981353/
+- ⚡https://www.linkedin.com/in/laura-bandeira-806981353/
 <!--
 
 Here are some ideas to get you started:
