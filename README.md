@@ -1,9 +1,16 @@
-## Sobre mim 😄
+## 😄Sobre mim
 
-Sou estudante do SENAI no curso de Desenvolvimento de Sistemas, com o primeiro semestre concluído.
+Olá, a Laura Bandeira, aluna do SENAI Jandira no curso de Desenvolvimento de sistemas.
 
+## 🚀
+Aqui você poderá encontrar meus projetos e atividades que estão em produção ou já terminados.
 
-📫 Caso queira me contatar:
+## 💻Tecnologias
+- HTML, CSS, JavaScript, Java, 
+- SQL,
+- Git & GitHub
+
+## 📫Caso queira me contatar:
 ✉️laurasantosbandeira07@gmail.com.br
 ⚡https://www.linkedin.com/in/laura-bandeira-806981353/
 <!--
